@@ -1,0 +1,24 @@
+boostrap class
+=============
+.comtainer
+max-width:117px;
+.container-fluid
+max -width:100%-30px
+.row
+==============
+breaking point(column)
+=====================
+main-width   max-width
+----------------------
+.col-lg (laptop/desktop)
+
+1200px>=....................
+.col-md(laptop/desktop)
+
+
+992px  to 1199px
+.col-sm(tablet)
+768px to 991px
+
+.col-xs(mobile)
+360px to 767px

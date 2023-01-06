@@ -5,7 +5,20 @@
 h1{
 
     color:red;
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+
 }
 body{
-    background: red;
+    background:white;
+text-align: center;
+}
+.my-column{
+    background: black;
+    text-align: center;
+    min-height: 100px;
+    margin-bottom: 30px;
 }
